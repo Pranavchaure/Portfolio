@@ -33,7 +33,7 @@ function Projects() {
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="Travel Website"
+              title="Apple Store"
               description="I developed a travel website's front-end using JavaScript, CSS, and HTML, featuring intuitive navigation menus for an enhanced user experience. The design is fully responsive, optimized for desktops, tablets, and mobile phones, ensuring accessibility across all platforms."
               ghLink="https://github.com/Pranavchaure/Travel-Website.git"
             />
