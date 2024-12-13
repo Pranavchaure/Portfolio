@@ -22,10 +22,10 @@ function Projects() {
             <ProjectCard
               imgPath={iStore}
               isBlog={false}
-              title="Live Crypto Tracker"
+              title="iStore"
               description="I created a real-time crypto tracker website using Tailwind CSS and React.js. It fetches data via APIs, providing real-time insights into cryptocurrency prices and centralizing the tracking of multiple cryptocurrencies across exchanges for user convenience."
-              ghLink="https://github.com/Pranavchaure/Live-Crypto-Tracker.git"
-              demoLink="https://livecryptodashboard.vercel.app/"
+              ghLink="https://github.com/Pranavchaure/iStore"
+              demoLink="https://istore-pranav.vercel.app/"
             />
           </Col>
 
