@@ -25,7 +25,7 @@ function Projects() {
               title="Live Crypto Tracker"
               description="I created a real-time crypto tracker website using Tailwind CSS and React.js. It fetches data via APIs, providing real-time insights into cryptocurrency prices and centralizing the tracking of multiple cryptocurrencies across exchanges for user convenience."
               ghLink="https://github.com/Pranavchaure/Live-Crypto-Tracker.git"
-              demoLink="https://livecryptotracker-cxtp8die2-pranav-chaures-projects.vercel.app/"
+              demoLink="https://livecryptodashboard.vercel.app/"
             />
           </Col>
 
