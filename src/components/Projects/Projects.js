@@ -20,7 +20,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={iStore}
               isBlog={false}
               title="Live Crypto Tracker"
               description="I created a real-time crypto tracker website using Tailwind CSS and React.js. It fetches data via APIs, providing real-time insights into cryptocurrency prices and centralizing the tracking of multiple cryptocurrencies across exchanges for user convenience."
