@@ -31,11 +31,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={leaf}
               isBlog={false}
-              title="Apple Store"
-              description="I developed a travel website's front-end using JavaScript, CSS, and HTML, featuring intuitive navigation menus for an enhanced user experience. The design is fully responsive, optimized for desktops, tablets, and mobile phones, ensuring accessibility across all platforms."
-              ghLink="https://github.com/Pranavchaure/Travel-Website.git"
+              title="Live Crypto Tracker"
+              description="created a real-time crypto tracker website using Tailwind CSS and React.js. It fetches data via APIs, providing real-time insights into cryptocurrency prices and centralizing the tracking of multiple cryptocurrencies across exchanges for user convenience."
+              ghLink="https://github.com/Pranavchaure/Live-Crypto-Tracker.git"
+              demoLink="https://livecryptodashboard.vercel.app/"
             />
           </Col>
 
