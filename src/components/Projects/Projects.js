@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/P1.png";
+import istore from "../../Assets/Projects/iStore.png";
 import emotion from "../../Assets/Projects/P2.png";
 import editor from "../../Assets/Projects/P3.png";
 
@@ -20,10 +21,12 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={iStore}
+              imgPath={istore}
               isBlog={false}
-              title="iStore"
-              description="I created a real-time crypto tracker website using Tailwind CSS and React.js. It fetches data via APIs, providing real-time insights into cryptocurrency prices and centralizing the tracking of multiple cryptocurrencies across exchanges for user convenience."
+              title="3D iStore"
+              description="Designed and developed a 3D iStore website with a modern UI/UX.
+              Built with React and Tailwind CSS for responsiveness and performance. 
+              Optimized for seamless user experience and cross-browser compatibility, showcasing advanced frontend development skills."
               ghLink="https://github.com/Pranavchaure/iStore"
               demoLink="https://istore-pranav.vercel.app/"
             />
