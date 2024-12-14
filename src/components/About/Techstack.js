@@ -24,6 +24,8 @@ import { SiMui } from "react-icons/si";
 import { DiHtml5 } from "react-icons/di";
 import { DiCss3 } from "react-icons/di";
 import { TbBrandThreejs } from "react-icons/tb";
+<CIcon icon={cibGreensock} />
+
 
 function Techstack() {
   return (
