@@ -24,8 +24,6 @@ import { SiMui } from "react-icons/si";
 import { DiHtml5 } from "react-icons/di";
 import { DiCss3 } from "react-icons/di";
 import { TbBrandThreejs } from "react-icons/tb";
-import { CIcon } from '@coreui/icons-react';
-import { cibGreensock } from '@coreui/icons';
 
 function Techstack() {
   return (
@@ -36,9 +34,6 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiHtml5 />
       </Col>
-      <col xs={4} md={2} className="tech-icons">
-      <CIcon icon={cibGreensock} />
-      </col>
       <Col xs={4} md={2} className="tech-icons">
         < DiCss3 />
       </Col>
