@@ -23,8 +23,10 @@ function Projects() {
             <ProjectCard
               imgPath={istore}
               isBlog={false}
-              title="iStore"
-              description="ABC"
+              title="3D iStore"
+              description="Designed and developed a 3D iStore website with a modern UI/UX, featuring interactive 3D elements using Three.js and smooth animations via GSAP(GreenSock Animation Platform).
+              Built with React and Tailwind CSS for responsiveness and performance. 
+              Optimized for seamless user experience and cross-browser compatibility, showcasing advanced frontend development skills."
               ghLink="https://github.com/Pranavchaure/iStore"
               demoLink="https://istore-pranav.vercel.app/"
             />
