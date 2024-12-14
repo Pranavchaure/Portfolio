@@ -23,6 +23,8 @@ import { DiBootstrap } from "react-icons/di";
 import { SiMui } from "react-icons/si";
 import { DiHtml5 } from "react-icons/di";
 import { DiCss3 } from "react-icons/di";
+import { TbBrandThreejs } from "react-icons/tb";
+
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
@@ -40,6 +42,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         < TbBrandTailwind/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        < TbBrandThreejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         < SiMui />
