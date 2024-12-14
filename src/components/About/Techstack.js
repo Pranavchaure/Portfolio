@@ -36,7 +36,9 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiHtml5 />
       </Col>
-      <CIcon icon={cibGreensock} />
+      <Col xs={4} md={2} className="tech-icons">
+        <cibGreensock />
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         < DiCss3 />
       </Col>
