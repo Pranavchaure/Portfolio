@@ -24,7 +24,7 @@ function Projects() {
               imgPath={istore}
               isBlog={false}
               title="iStore"
-              description="I created a real-time crypto tracker website using Tailwind CSS and React.js. It fetches data via APIs, providing real-time insights into cryptocurrency prices and centralizing the tracking of multiple cryptocurrencies across exchanges for user convenience."
+              description="ABC"
               ghLink="https://github.com/Pranavchaure/iStore"
               demoLink="https://istore-pranav.vercel.app/"
             />
